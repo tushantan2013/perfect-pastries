@@ -44,9 +44,9 @@ export default function Page() {
     <main className="min-h-screen overflow-hidden bg-[#f8f2e9] text-[#241f1b]">
       <div className="mx-auto max-w-[1440px] px-5 sm:px-8 lg:px-12">
         <header className="flex items-center justify-between border-b border-[#241f1b]/15 py-5">
-          <a href="#top" className="flex items-center gap-2" aria-label="Crumb and Cream home">
+          <a href="#top" className="flex items-center gap-2" aria-label="Perfect Pastries home">
             <span className="flex size-9 items-center justify-center rounded-full bg-[#b92f2e] text-[#f8f2e9]"><CakeSlice size={18} strokeWidth={1.8} /></span>
-            <span className="font-display text-xl font-semibold tracking-tight">crumb<span className="text-[#b92f2e]">&</span>cream</span>
+            <span className="font-display text-xl font-semibold tracking-tight">Perfect Pastries</span>
           </a>
           <nav className="hidden items-center gap-8 text-xs font-semibold uppercase tracking-[0.18em] md:flex">
             <a href="#story" className="transition-colors hover:text-[#b92f2e]">Our story</a>
